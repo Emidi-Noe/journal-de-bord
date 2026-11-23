@@ -1,3 +1,3 @@
-<h1>This is a read me</h1>
-User: DWWM.M05
-Email: <noe.emidi@afpar.com>
+<h1>Journal DWWM01.M05</h1>
+Ceci est le journal de bord qui sera remplis au fur et à mesure
+23/11/2026, Premier essais fonctionnel avec git, semble bon
